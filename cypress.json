@@ -1,4 +1,8 @@
 {
   "video": false,
-  "integrationFolder": "cypress/e2e"
+  "integrationFolder": "cypress/e2e",
+  "viewportWidth": 1366,
+  "wiewportHeight": 768,
+  "defaultCommandTimeout": 10000,
+  "baseUrl": "https://twitter.com"
 }
