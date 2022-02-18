@@ -1,0 +1,7 @@
+node_modules
+
+# cypress
+cypress/screenshots
+cypress/videos
+
+.DS_Store
